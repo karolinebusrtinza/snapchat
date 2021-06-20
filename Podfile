@@ -8,4 +8,6 @@ target 'semana10-A' do
   # Pods for semana10-A
   pod 'Firebase/Analytics'
   pod 'Firebase/Auth'
+  pod 'Firebase/Storage'
+
 end
